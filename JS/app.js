@@ -62,7 +62,7 @@ padding-top: 0px;
 padding-left: 32px;
 
 `;
-img1.src = "images/aylana.svg";
+img1.src = "Images/aylana.svg";
 elDivM.appendChild(img1);
 const img11 = document.createElement("img");
 img11.style.cssText = `
@@ -70,7 +70,7 @@ img11.style.cssText = `
 position:absolute;
 top:77px;
 left:56px;`;
-img11.src = "images/statistika.svg";
+img11.src = "Images/statistika.svg";
 elDivM.appendChild(img11);
 const title1 = document.createElement("h2");
 title1.style.cssText = `
@@ -112,7 +112,7 @@ const img2 = document.createElement("img");
 img2.style.cssText = `
 padding-top: 0px;
 padding-left: 32px;`;
-img2.src = "images/aylana.svg";
+img2.src = "Images/aylana.svg";
 elDivM2.appendChild(img2);
 const img21 = document.createElement("img");
 img21.style.cssText = `
@@ -120,7 +120,7 @@ position:absolute;
 top:125px;
 left:435px;
 `;
-img21.src = "images/tezlik.svg";
+img21.src = "Images/tezlik.svg";
 elDivM2.appendChild(img21);
 const title2 = document.createElement("h2");
 title2.style.cssText = `
@@ -160,7 +160,7 @@ const img3 = document.createElement("img");
 img3.style.cssText = `
 padding-top: 0px;
 padding-left: 32px;`;
-img3.src = "images/aylana.svg";
+img3.src = "Images/aylana.svg";
 elDivM3.appendChild(img3);
 const img31 = document.createElement("img");
 img31.style.cssText = `
@@ -168,7 +168,7 @@ position:absolute;
 top:164px;
 left:810px;
 `;
-img31.src = "images/qalam.svg";
+img31.src = "Images/qalam.svg";
 elDivM3.appendChild(img31);
 const title3 = document.createElement("h2");
 title3.style.cssText = `
@@ -203,6 +203,6 @@ top:550px;
 position:absolute;
 z-index:1;
 `;
-line.src = "images/line.svg";
+line.src = "Images/line.svg";
 elDiv.appendChild(line);
 document.body.appendChild(elDiv);
